@@ -1,1 +1,1 @@
-// Add JS here
+// This file is for future JavaScript interactivity.
